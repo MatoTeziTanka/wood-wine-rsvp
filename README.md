@@ -65,7 +65,7 @@ If editing the inline form in `index.html`, the field names need to match:
 | Will you be joining us? | `entry.883145723` |
 | Your name | `entry.811271213` |
 | Company name | `entry.849224123` |
-| Your email | `entry.233535198` |
+| Your email | `entry.650342034` |
 | Will you be bringing a guest? | `entry.767099722` |
 | Any dietary restrictions or allergies? | `entry.1072631882` |
 | Comments or questions? | `entry.1497359468` |
